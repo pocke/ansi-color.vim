@@ -8,14 +8,14 @@ COLORS_FG = {
   Cyan: 36,
   White: 37,
 
-  LightBlack: 90,
+  #LightBlack: 90,
   LightRed: 91,
   LightGreen: 92,
   LightYellow: 93,
   LightBlue: 94,
   LightMagenta: 95,
   LightCyan: 96,
-  LightWhite: 97,
+  #LightWhite: 97,
 }
 
 COLORS_BG = {
@@ -28,14 +28,14 @@ COLORS_BG = {
   Cyan: 46,
   White: 47,
 
-  LightBlack: 100,
+  #LightBlack: 100,
   LightRed: 101,
   LightGreen: 102,
   LightYellow: 103,
   LightBlue: 104,
   LightMagenta: 105,
   LightCyan: 106,
-  LightWhite: 107,
+  #LightWhite: 107,
 }
 
 def hi(fg: nil, bg: nil, bold: false)

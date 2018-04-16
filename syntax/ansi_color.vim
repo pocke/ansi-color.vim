@@ -17,8 +17,6 @@ hi ansiColor_Black_Cyan_ ctermfg=Black ctermbg=Cyan
 hi ansiColor_Black_Cyan_bold ctermfg=Black ctermbg=Cyan cterm=bold
 hi ansiColor_Black_White_ ctermfg=Black ctermbg=White 
 hi ansiColor_Black_White_bold ctermfg=Black ctermbg=White cterm=bold
-hi ansiColor_Black_LightBlack_ ctermfg=Black ctermbg=LightBlack 
-hi ansiColor_Black_LightBlack_bold ctermfg=Black ctermbg=LightBlack cterm=bold
 hi ansiColor_Black_LightRed_ ctermfg=Black ctermbg=LightRed 
 hi ansiColor_Black_LightRed_bold ctermfg=Black ctermbg=LightRed cterm=bold
 hi ansiColor_Black_LightGreen_ ctermfg=Black ctermbg=LightGreen 
@@ -31,8 +29,6 @@ hi ansiColor_Black_LightMagenta_ ctermfg=Black ctermbg=LightMagenta
 hi ansiColor_Black_LightMagenta_bold ctermfg=Black ctermbg=LightMagenta cterm=bold
 hi ansiColor_Black_LightCyan_ ctermfg=Black ctermbg=LightCyan 
 hi ansiColor_Black_LightCyan_bold ctermfg=Black ctermbg=LightCyan cterm=bold
-hi ansiColor_Black_LightWhite_ ctermfg=Black ctermbg=LightWhite 
-hi ansiColor_Black_LightWhite_bold ctermfg=Black ctermbg=LightWhite cterm=bold
 hi ansiColor_Red__ ctermfg=Red  
 hi ansiColor_Red__bold ctermfg=Red  cterm=bold
 hi ansiColor_Red_Black_ ctermfg=Red ctermbg=Black 
@@ -51,8 +47,6 @@ hi ansiColor_Red_Cyan_ ctermfg=Red ctermbg=Cyan
 hi ansiColor_Red_Cyan_bold ctermfg=Red ctermbg=Cyan cterm=bold
 hi ansiColor_Red_White_ ctermfg=Red ctermbg=White 
 hi ansiColor_Red_White_bold ctermfg=Red ctermbg=White cterm=bold
-hi ansiColor_Red_LightBlack_ ctermfg=Red ctermbg=LightBlack 
-hi ansiColor_Red_LightBlack_bold ctermfg=Red ctermbg=LightBlack cterm=bold
 hi ansiColor_Red_LightRed_ ctermfg=Red ctermbg=LightRed 
 hi ansiColor_Red_LightRed_bold ctermfg=Red ctermbg=LightRed cterm=bold
 hi ansiColor_Red_LightGreen_ ctermfg=Red ctermbg=LightGreen 
@@ -65,8 +59,6 @@ hi ansiColor_Red_LightMagenta_ ctermfg=Red ctermbg=LightMagenta
 hi ansiColor_Red_LightMagenta_bold ctermfg=Red ctermbg=LightMagenta cterm=bold
 hi ansiColor_Red_LightCyan_ ctermfg=Red ctermbg=LightCyan 
 hi ansiColor_Red_LightCyan_bold ctermfg=Red ctermbg=LightCyan cterm=bold
-hi ansiColor_Red_LightWhite_ ctermfg=Red ctermbg=LightWhite 
-hi ansiColor_Red_LightWhite_bold ctermfg=Red ctermbg=LightWhite cterm=bold
 hi ansiColor_Green__ ctermfg=Green  
 hi ansiColor_Green__bold ctermfg=Green  cterm=bold
 hi ansiColor_Green_Black_ ctermfg=Green ctermbg=Black 
@@ -85,8 +77,6 @@ hi ansiColor_Green_Cyan_ ctermfg=Green ctermbg=Cyan
 hi ansiColor_Green_Cyan_bold ctermfg=Green ctermbg=Cyan cterm=bold
 hi ansiColor_Green_White_ ctermfg=Green ctermbg=White 
 hi ansiColor_Green_White_bold ctermfg=Green ctermbg=White cterm=bold
-hi ansiColor_Green_LightBlack_ ctermfg=Green ctermbg=LightBlack 
-hi ansiColor_Green_LightBlack_bold ctermfg=Green ctermbg=LightBlack cterm=bold
 hi ansiColor_Green_LightRed_ ctermfg=Green ctermbg=LightRed 
 hi ansiColor_Green_LightRed_bold ctermfg=Green ctermbg=LightRed cterm=bold
 hi ansiColor_Green_LightGreen_ ctermfg=Green ctermbg=LightGreen 
@@ -99,8 +89,6 @@ hi ansiColor_Green_LightMagenta_ ctermfg=Green ctermbg=LightMagenta
 hi ansiColor_Green_LightMagenta_bold ctermfg=Green ctermbg=LightMagenta cterm=bold
 hi ansiColor_Green_LightCyan_ ctermfg=Green ctermbg=LightCyan 
 hi ansiColor_Green_LightCyan_bold ctermfg=Green ctermbg=LightCyan cterm=bold
-hi ansiColor_Green_LightWhite_ ctermfg=Green ctermbg=LightWhite 
-hi ansiColor_Green_LightWhite_bold ctermfg=Green ctermbg=LightWhite cterm=bold
 hi ansiColor_Yellow__ ctermfg=Yellow  
 hi ansiColor_Yellow__bold ctermfg=Yellow  cterm=bold
 hi ansiColor_Yellow_Black_ ctermfg=Yellow ctermbg=Black 
@@ -119,8 +107,6 @@ hi ansiColor_Yellow_Cyan_ ctermfg=Yellow ctermbg=Cyan
 hi ansiColor_Yellow_Cyan_bold ctermfg=Yellow ctermbg=Cyan cterm=bold
 hi ansiColor_Yellow_White_ ctermfg=Yellow ctermbg=White 
 hi ansiColor_Yellow_White_bold ctermfg=Yellow ctermbg=White cterm=bold
-hi ansiColor_Yellow_LightBlack_ ctermfg=Yellow ctermbg=LightBlack 
-hi ansiColor_Yellow_LightBlack_bold ctermfg=Yellow ctermbg=LightBlack cterm=bold
 hi ansiColor_Yellow_LightRed_ ctermfg=Yellow ctermbg=LightRed 
 hi ansiColor_Yellow_LightRed_bold ctermfg=Yellow ctermbg=LightRed cterm=bold
 hi ansiColor_Yellow_LightGreen_ ctermfg=Yellow ctermbg=LightGreen 
@@ -133,8 +119,6 @@ hi ansiColor_Yellow_LightMagenta_ ctermfg=Yellow ctermbg=LightMagenta
 hi ansiColor_Yellow_LightMagenta_bold ctermfg=Yellow ctermbg=LightMagenta cterm=bold
 hi ansiColor_Yellow_LightCyan_ ctermfg=Yellow ctermbg=LightCyan 
 hi ansiColor_Yellow_LightCyan_bold ctermfg=Yellow ctermbg=LightCyan cterm=bold
-hi ansiColor_Yellow_LightWhite_ ctermfg=Yellow ctermbg=LightWhite 
-hi ansiColor_Yellow_LightWhite_bold ctermfg=Yellow ctermbg=LightWhite cterm=bold
 hi ansiColor_Blue__ ctermfg=Blue  
 hi ansiColor_Blue__bold ctermfg=Blue  cterm=bold
 hi ansiColor_Blue_Black_ ctermfg=Blue ctermbg=Black 
@@ -153,8 +137,6 @@ hi ansiColor_Blue_Cyan_ ctermfg=Blue ctermbg=Cyan
 hi ansiColor_Blue_Cyan_bold ctermfg=Blue ctermbg=Cyan cterm=bold
 hi ansiColor_Blue_White_ ctermfg=Blue ctermbg=White 
 hi ansiColor_Blue_White_bold ctermfg=Blue ctermbg=White cterm=bold
-hi ansiColor_Blue_LightBlack_ ctermfg=Blue ctermbg=LightBlack 
-hi ansiColor_Blue_LightBlack_bold ctermfg=Blue ctermbg=LightBlack cterm=bold
 hi ansiColor_Blue_LightRed_ ctermfg=Blue ctermbg=LightRed 
 hi ansiColor_Blue_LightRed_bold ctermfg=Blue ctermbg=LightRed cterm=bold
 hi ansiColor_Blue_LightGreen_ ctermfg=Blue ctermbg=LightGreen 
@@ -167,8 +149,6 @@ hi ansiColor_Blue_LightMagenta_ ctermfg=Blue ctermbg=LightMagenta
 hi ansiColor_Blue_LightMagenta_bold ctermfg=Blue ctermbg=LightMagenta cterm=bold
 hi ansiColor_Blue_LightCyan_ ctermfg=Blue ctermbg=LightCyan 
 hi ansiColor_Blue_LightCyan_bold ctermfg=Blue ctermbg=LightCyan cterm=bold
-hi ansiColor_Blue_LightWhite_ ctermfg=Blue ctermbg=LightWhite 
-hi ansiColor_Blue_LightWhite_bold ctermfg=Blue ctermbg=LightWhite cterm=bold
 hi ansiColor_Magenta__ ctermfg=Magenta  
 hi ansiColor_Magenta__bold ctermfg=Magenta  cterm=bold
 hi ansiColor_Magenta_Black_ ctermfg=Magenta ctermbg=Black 
@@ -187,8 +167,6 @@ hi ansiColor_Magenta_Cyan_ ctermfg=Magenta ctermbg=Cyan
 hi ansiColor_Magenta_Cyan_bold ctermfg=Magenta ctermbg=Cyan cterm=bold
 hi ansiColor_Magenta_White_ ctermfg=Magenta ctermbg=White 
 hi ansiColor_Magenta_White_bold ctermfg=Magenta ctermbg=White cterm=bold
-hi ansiColor_Magenta_LightBlack_ ctermfg=Magenta ctermbg=LightBlack 
-hi ansiColor_Magenta_LightBlack_bold ctermfg=Magenta ctermbg=LightBlack cterm=bold
 hi ansiColor_Magenta_LightRed_ ctermfg=Magenta ctermbg=LightRed 
 hi ansiColor_Magenta_LightRed_bold ctermfg=Magenta ctermbg=LightRed cterm=bold
 hi ansiColor_Magenta_LightGreen_ ctermfg=Magenta ctermbg=LightGreen 
@@ -201,8 +179,6 @@ hi ansiColor_Magenta_LightMagenta_ ctermfg=Magenta ctermbg=LightMagenta
 hi ansiColor_Magenta_LightMagenta_bold ctermfg=Magenta ctermbg=LightMagenta cterm=bold
 hi ansiColor_Magenta_LightCyan_ ctermfg=Magenta ctermbg=LightCyan 
 hi ansiColor_Magenta_LightCyan_bold ctermfg=Magenta ctermbg=LightCyan cterm=bold
-hi ansiColor_Magenta_LightWhite_ ctermfg=Magenta ctermbg=LightWhite 
-hi ansiColor_Magenta_LightWhite_bold ctermfg=Magenta ctermbg=LightWhite cterm=bold
 hi ansiColor_Cyan__ ctermfg=Cyan  
 hi ansiColor_Cyan__bold ctermfg=Cyan  cterm=bold
 hi ansiColor_Cyan_Black_ ctermfg=Cyan ctermbg=Black 
@@ -221,8 +197,6 @@ hi ansiColor_Cyan_Cyan_ ctermfg=Cyan ctermbg=Cyan
 hi ansiColor_Cyan_Cyan_bold ctermfg=Cyan ctermbg=Cyan cterm=bold
 hi ansiColor_Cyan_White_ ctermfg=Cyan ctermbg=White 
 hi ansiColor_Cyan_White_bold ctermfg=Cyan ctermbg=White cterm=bold
-hi ansiColor_Cyan_LightBlack_ ctermfg=Cyan ctermbg=LightBlack 
-hi ansiColor_Cyan_LightBlack_bold ctermfg=Cyan ctermbg=LightBlack cterm=bold
 hi ansiColor_Cyan_LightRed_ ctermfg=Cyan ctermbg=LightRed 
 hi ansiColor_Cyan_LightRed_bold ctermfg=Cyan ctermbg=LightRed cterm=bold
 hi ansiColor_Cyan_LightGreen_ ctermfg=Cyan ctermbg=LightGreen 
@@ -235,8 +209,6 @@ hi ansiColor_Cyan_LightMagenta_ ctermfg=Cyan ctermbg=LightMagenta
 hi ansiColor_Cyan_LightMagenta_bold ctermfg=Cyan ctermbg=LightMagenta cterm=bold
 hi ansiColor_Cyan_LightCyan_ ctermfg=Cyan ctermbg=LightCyan 
 hi ansiColor_Cyan_LightCyan_bold ctermfg=Cyan ctermbg=LightCyan cterm=bold
-hi ansiColor_Cyan_LightWhite_ ctermfg=Cyan ctermbg=LightWhite 
-hi ansiColor_Cyan_LightWhite_bold ctermfg=Cyan ctermbg=LightWhite cterm=bold
 hi ansiColor_White__ ctermfg=White  
 hi ansiColor_White__bold ctermfg=White  cterm=bold
 hi ansiColor_White_Black_ ctermfg=White ctermbg=Black 
@@ -255,8 +227,6 @@ hi ansiColor_White_Cyan_ ctermfg=White ctermbg=Cyan
 hi ansiColor_White_Cyan_bold ctermfg=White ctermbg=Cyan cterm=bold
 hi ansiColor_White_White_ ctermfg=White ctermbg=White 
 hi ansiColor_White_White_bold ctermfg=White ctermbg=White cterm=bold
-hi ansiColor_White_LightBlack_ ctermfg=White ctermbg=LightBlack 
-hi ansiColor_White_LightBlack_bold ctermfg=White ctermbg=LightBlack cterm=bold
 hi ansiColor_White_LightRed_ ctermfg=White ctermbg=LightRed 
 hi ansiColor_White_LightRed_bold ctermfg=White ctermbg=LightRed cterm=bold
 hi ansiColor_White_LightGreen_ ctermfg=White ctermbg=LightGreen 
@@ -269,42 +239,6 @@ hi ansiColor_White_LightMagenta_ ctermfg=White ctermbg=LightMagenta
 hi ansiColor_White_LightMagenta_bold ctermfg=White ctermbg=LightMagenta cterm=bold
 hi ansiColor_White_LightCyan_ ctermfg=White ctermbg=LightCyan 
 hi ansiColor_White_LightCyan_bold ctermfg=White ctermbg=LightCyan cterm=bold
-hi ansiColor_White_LightWhite_ ctermfg=White ctermbg=LightWhite 
-hi ansiColor_White_LightWhite_bold ctermfg=White ctermbg=LightWhite cterm=bold
-hi ansiColor_LightBlack__ ctermfg=LightBlack  
-hi ansiColor_LightBlack__bold ctermfg=LightBlack  cterm=bold
-hi ansiColor_LightBlack_Black_ ctermfg=LightBlack ctermbg=Black 
-hi ansiColor_LightBlack_Black_bold ctermfg=LightBlack ctermbg=Black cterm=bold
-hi ansiColor_LightBlack_Red_ ctermfg=LightBlack ctermbg=Red 
-hi ansiColor_LightBlack_Red_bold ctermfg=LightBlack ctermbg=Red cterm=bold
-hi ansiColor_LightBlack_Green_ ctermfg=LightBlack ctermbg=Green 
-hi ansiColor_LightBlack_Green_bold ctermfg=LightBlack ctermbg=Green cterm=bold
-hi ansiColor_LightBlack_Yellow_ ctermfg=LightBlack ctermbg=Yellow 
-hi ansiColor_LightBlack_Yellow_bold ctermfg=LightBlack ctermbg=Yellow cterm=bold
-hi ansiColor_LightBlack_Blue_ ctermfg=LightBlack ctermbg=Blue 
-hi ansiColor_LightBlack_Blue_bold ctermfg=LightBlack ctermbg=Blue cterm=bold
-hi ansiColor_LightBlack_Magenta_ ctermfg=LightBlack ctermbg=Magenta 
-hi ansiColor_LightBlack_Magenta_bold ctermfg=LightBlack ctermbg=Magenta cterm=bold
-hi ansiColor_LightBlack_Cyan_ ctermfg=LightBlack ctermbg=Cyan 
-hi ansiColor_LightBlack_Cyan_bold ctermfg=LightBlack ctermbg=Cyan cterm=bold
-hi ansiColor_LightBlack_White_ ctermfg=LightBlack ctermbg=White 
-hi ansiColor_LightBlack_White_bold ctermfg=LightBlack ctermbg=White cterm=bold
-hi ansiColor_LightBlack_LightBlack_ ctermfg=LightBlack ctermbg=LightBlack 
-hi ansiColor_LightBlack_LightBlack_bold ctermfg=LightBlack ctermbg=LightBlack cterm=bold
-hi ansiColor_LightBlack_LightRed_ ctermfg=LightBlack ctermbg=LightRed 
-hi ansiColor_LightBlack_LightRed_bold ctermfg=LightBlack ctermbg=LightRed cterm=bold
-hi ansiColor_LightBlack_LightGreen_ ctermfg=LightBlack ctermbg=LightGreen 
-hi ansiColor_LightBlack_LightGreen_bold ctermfg=LightBlack ctermbg=LightGreen cterm=bold
-hi ansiColor_LightBlack_LightYellow_ ctermfg=LightBlack ctermbg=LightYellow 
-hi ansiColor_LightBlack_LightYellow_bold ctermfg=LightBlack ctermbg=LightYellow cterm=bold
-hi ansiColor_LightBlack_LightBlue_ ctermfg=LightBlack ctermbg=LightBlue 
-hi ansiColor_LightBlack_LightBlue_bold ctermfg=LightBlack ctermbg=LightBlue cterm=bold
-hi ansiColor_LightBlack_LightMagenta_ ctermfg=LightBlack ctermbg=LightMagenta 
-hi ansiColor_LightBlack_LightMagenta_bold ctermfg=LightBlack ctermbg=LightMagenta cterm=bold
-hi ansiColor_LightBlack_LightCyan_ ctermfg=LightBlack ctermbg=LightCyan 
-hi ansiColor_LightBlack_LightCyan_bold ctermfg=LightBlack ctermbg=LightCyan cterm=bold
-hi ansiColor_LightBlack_LightWhite_ ctermfg=LightBlack ctermbg=LightWhite 
-hi ansiColor_LightBlack_LightWhite_bold ctermfg=LightBlack ctermbg=LightWhite cterm=bold
 hi ansiColor_LightRed__ ctermfg=LightRed  
 hi ansiColor_LightRed__bold ctermfg=LightRed  cterm=bold
 hi ansiColor_LightRed_Black_ ctermfg=LightRed ctermbg=Black 
@@ -323,8 +257,6 @@ hi ansiColor_LightRed_Cyan_ ctermfg=LightRed ctermbg=Cyan
 hi ansiColor_LightRed_Cyan_bold ctermfg=LightRed ctermbg=Cyan cterm=bold
 hi ansiColor_LightRed_White_ ctermfg=LightRed ctermbg=White 
 hi ansiColor_LightRed_White_bold ctermfg=LightRed ctermbg=White cterm=bold
-hi ansiColor_LightRed_LightBlack_ ctermfg=LightRed ctermbg=LightBlack 
-hi ansiColor_LightRed_LightBlack_bold ctermfg=LightRed ctermbg=LightBlack cterm=bold
 hi ansiColor_LightRed_LightRed_ ctermfg=LightRed ctermbg=LightRed 
 hi ansiColor_LightRed_LightRed_bold ctermfg=LightRed ctermbg=LightRed cterm=bold
 hi ansiColor_LightRed_LightGreen_ ctermfg=LightRed ctermbg=LightGreen 
@@ -337,8 +269,6 @@ hi ansiColor_LightRed_LightMagenta_ ctermfg=LightRed ctermbg=LightMagenta
 hi ansiColor_LightRed_LightMagenta_bold ctermfg=LightRed ctermbg=LightMagenta cterm=bold
 hi ansiColor_LightRed_LightCyan_ ctermfg=LightRed ctermbg=LightCyan 
 hi ansiColor_LightRed_LightCyan_bold ctermfg=LightRed ctermbg=LightCyan cterm=bold
-hi ansiColor_LightRed_LightWhite_ ctermfg=LightRed ctermbg=LightWhite 
-hi ansiColor_LightRed_LightWhite_bold ctermfg=LightRed ctermbg=LightWhite cterm=bold
 hi ansiColor_LightGreen__ ctermfg=LightGreen  
 hi ansiColor_LightGreen__bold ctermfg=LightGreen  cterm=bold
 hi ansiColor_LightGreen_Black_ ctermfg=LightGreen ctermbg=Black 
@@ -357,8 +287,6 @@ hi ansiColor_LightGreen_Cyan_ ctermfg=LightGreen ctermbg=Cyan
 hi ansiColor_LightGreen_Cyan_bold ctermfg=LightGreen ctermbg=Cyan cterm=bold
 hi ansiColor_LightGreen_White_ ctermfg=LightGreen ctermbg=White 
 hi ansiColor_LightGreen_White_bold ctermfg=LightGreen ctermbg=White cterm=bold
-hi ansiColor_LightGreen_LightBlack_ ctermfg=LightGreen ctermbg=LightBlack 
-hi ansiColor_LightGreen_LightBlack_bold ctermfg=LightGreen ctermbg=LightBlack cterm=bold
 hi ansiColor_LightGreen_LightRed_ ctermfg=LightGreen ctermbg=LightRed 
 hi ansiColor_LightGreen_LightRed_bold ctermfg=LightGreen ctermbg=LightRed cterm=bold
 hi ansiColor_LightGreen_LightGreen_ ctermfg=LightGreen ctermbg=LightGreen 
@@ -371,8 +299,6 @@ hi ansiColor_LightGreen_LightMagenta_ ctermfg=LightGreen ctermbg=LightMagenta
 hi ansiColor_LightGreen_LightMagenta_bold ctermfg=LightGreen ctermbg=LightMagenta cterm=bold
 hi ansiColor_LightGreen_LightCyan_ ctermfg=LightGreen ctermbg=LightCyan 
 hi ansiColor_LightGreen_LightCyan_bold ctermfg=LightGreen ctermbg=LightCyan cterm=bold
-hi ansiColor_LightGreen_LightWhite_ ctermfg=LightGreen ctermbg=LightWhite 
-hi ansiColor_LightGreen_LightWhite_bold ctermfg=LightGreen ctermbg=LightWhite cterm=bold
 hi ansiColor_LightYellow__ ctermfg=LightYellow  
 hi ansiColor_LightYellow__bold ctermfg=LightYellow  cterm=bold
 hi ansiColor_LightYellow_Black_ ctermfg=LightYellow ctermbg=Black 
@@ -391,8 +317,6 @@ hi ansiColor_LightYellow_Cyan_ ctermfg=LightYellow ctermbg=Cyan
 hi ansiColor_LightYellow_Cyan_bold ctermfg=LightYellow ctermbg=Cyan cterm=bold
 hi ansiColor_LightYellow_White_ ctermfg=LightYellow ctermbg=White 
 hi ansiColor_LightYellow_White_bold ctermfg=LightYellow ctermbg=White cterm=bold
-hi ansiColor_LightYellow_LightBlack_ ctermfg=LightYellow ctermbg=LightBlack 
-hi ansiColor_LightYellow_LightBlack_bold ctermfg=LightYellow ctermbg=LightBlack cterm=bold
 hi ansiColor_LightYellow_LightRed_ ctermfg=LightYellow ctermbg=LightRed 
 hi ansiColor_LightYellow_LightRed_bold ctermfg=LightYellow ctermbg=LightRed cterm=bold
 hi ansiColor_LightYellow_LightGreen_ ctermfg=LightYellow ctermbg=LightGreen 
@@ -405,8 +329,6 @@ hi ansiColor_LightYellow_LightMagenta_ ctermfg=LightYellow ctermbg=LightMagenta
 hi ansiColor_LightYellow_LightMagenta_bold ctermfg=LightYellow ctermbg=LightMagenta cterm=bold
 hi ansiColor_LightYellow_LightCyan_ ctermfg=LightYellow ctermbg=LightCyan 
 hi ansiColor_LightYellow_LightCyan_bold ctermfg=LightYellow ctermbg=LightCyan cterm=bold
-hi ansiColor_LightYellow_LightWhite_ ctermfg=LightYellow ctermbg=LightWhite 
-hi ansiColor_LightYellow_LightWhite_bold ctermfg=LightYellow ctermbg=LightWhite cterm=bold
 hi ansiColor_LightBlue__ ctermfg=LightBlue  
 hi ansiColor_LightBlue__bold ctermfg=LightBlue  cterm=bold
 hi ansiColor_LightBlue_Black_ ctermfg=LightBlue ctermbg=Black 
@@ -425,8 +347,6 @@ hi ansiColor_LightBlue_Cyan_ ctermfg=LightBlue ctermbg=Cyan
 hi ansiColor_LightBlue_Cyan_bold ctermfg=LightBlue ctermbg=Cyan cterm=bold
 hi ansiColor_LightBlue_White_ ctermfg=LightBlue ctermbg=White 
 hi ansiColor_LightBlue_White_bold ctermfg=LightBlue ctermbg=White cterm=bold
-hi ansiColor_LightBlue_LightBlack_ ctermfg=LightBlue ctermbg=LightBlack 
-hi ansiColor_LightBlue_LightBlack_bold ctermfg=LightBlue ctermbg=LightBlack cterm=bold
 hi ansiColor_LightBlue_LightRed_ ctermfg=LightBlue ctermbg=LightRed 
 hi ansiColor_LightBlue_LightRed_bold ctermfg=LightBlue ctermbg=LightRed cterm=bold
 hi ansiColor_LightBlue_LightGreen_ ctermfg=LightBlue ctermbg=LightGreen 
@@ -439,8 +359,6 @@ hi ansiColor_LightBlue_LightMagenta_ ctermfg=LightBlue ctermbg=LightMagenta
 hi ansiColor_LightBlue_LightMagenta_bold ctermfg=LightBlue ctermbg=LightMagenta cterm=bold
 hi ansiColor_LightBlue_LightCyan_ ctermfg=LightBlue ctermbg=LightCyan 
 hi ansiColor_LightBlue_LightCyan_bold ctermfg=LightBlue ctermbg=LightCyan cterm=bold
-hi ansiColor_LightBlue_LightWhite_ ctermfg=LightBlue ctermbg=LightWhite 
-hi ansiColor_LightBlue_LightWhite_bold ctermfg=LightBlue ctermbg=LightWhite cterm=bold
 hi ansiColor_LightMagenta__ ctermfg=LightMagenta  
 hi ansiColor_LightMagenta__bold ctermfg=LightMagenta  cterm=bold
 hi ansiColor_LightMagenta_Black_ ctermfg=LightMagenta ctermbg=Black 
@@ -459,8 +377,6 @@ hi ansiColor_LightMagenta_Cyan_ ctermfg=LightMagenta ctermbg=Cyan
 hi ansiColor_LightMagenta_Cyan_bold ctermfg=LightMagenta ctermbg=Cyan cterm=bold
 hi ansiColor_LightMagenta_White_ ctermfg=LightMagenta ctermbg=White 
 hi ansiColor_LightMagenta_White_bold ctermfg=LightMagenta ctermbg=White cterm=bold
-hi ansiColor_LightMagenta_LightBlack_ ctermfg=LightMagenta ctermbg=LightBlack 
-hi ansiColor_LightMagenta_LightBlack_bold ctermfg=LightMagenta ctermbg=LightBlack cterm=bold
 hi ansiColor_LightMagenta_LightRed_ ctermfg=LightMagenta ctermbg=LightRed 
 hi ansiColor_LightMagenta_LightRed_bold ctermfg=LightMagenta ctermbg=LightRed cterm=bold
 hi ansiColor_LightMagenta_LightGreen_ ctermfg=LightMagenta ctermbg=LightGreen 
@@ -473,8 +389,6 @@ hi ansiColor_LightMagenta_LightMagenta_ ctermfg=LightMagenta ctermbg=LightMagent
 hi ansiColor_LightMagenta_LightMagenta_bold ctermfg=LightMagenta ctermbg=LightMagenta cterm=bold
 hi ansiColor_LightMagenta_LightCyan_ ctermfg=LightMagenta ctermbg=LightCyan 
 hi ansiColor_LightMagenta_LightCyan_bold ctermfg=LightMagenta ctermbg=LightCyan cterm=bold
-hi ansiColor_LightMagenta_LightWhite_ ctermfg=LightMagenta ctermbg=LightWhite 
-hi ansiColor_LightMagenta_LightWhite_bold ctermfg=LightMagenta ctermbg=LightWhite cterm=bold
 hi ansiColor_LightCyan__ ctermfg=LightCyan  
 hi ansiColor_LightCyan__bold ctermfg=LightCyan  cterm=bold
 hi ansiColor_LightCyan_Black_ ctermfg=LightCyan ctermbg=Black 
@@ -493,8 +407,6 @@ hi ansiColor_LightCyan_Cyan_ ctermfg=LightCyan ctermbg=Cyan
 hi ansiColor_LightCyan_Cyan_bold ctermfg=LightCyan ctermbg=Cyan cterm=bold
 hi ansiColor_LightCyan_White_ ctermfg=LightCyan ctermbg=White 
 hi ansiColor_LightCyan_White_bold ctermfg=LightCyan ctermbg=White cterm=bold
-hi ansiColor_LightCyan_LightBlack_ ctermfg=LightCyan ctermbg=LightBlack 
-hi ansiColor_LightCyan_LightBlack_bold ctermfg=LightCyan ctermbg=LightBlack cterm=bold
 hi ansiColor_LightCyan_LightRed_ ctermfg=LightCyan ctermbg=LightRed 
 hi ansiColor_LightCyan_LightRed_bold ctermfg=LightCyan ctermbg=LightRed cterm=bold
 hi ansiColor_LightCyan_LightGreen_ ctermfg=LightCyan ctermbg=LightGreen 
@@ -507,39 +419,3 @@ hi ansiColor_LightCyan_LightMagenta_ ctermfg=LightCyan ctermbg=LightMagenta
 hi ansiColor_LightCyan_LightMagenta_bold ctermfg=LightCyan ctermbg=LightMagenta cterm=bold
 hi ansiColor_LightCyan_LightCyan_ ctermfg=LightCyan ctermbg=LightCyan 
 hi ansiColor_LightCyan_LightCyan_bold ctermfg=LightCyan ctermbg=LightCyan cterm=bold
-hi ansiColor_LightCyan_LightWhite_ ctermfg=LightCyan ctermbg=LightWhite 
-hi ansiColor_LightCyan_LightWhite_bold ctermfg=LightCyan ctermbg=LightWhite cterm=bold
-hi ansiColor_LightWhite__ ctermfg=LightWhite  
-hi ansiColor_LightWhite__bold ctermfg=LightWhite  cterm=bold
-hi ansiColor_LightWhite_Black_ ctermfg=LightWhite ctermbg=Black 
-hi ansiColor_LightWhite_Black_bold ctermfg=LightWhite ctermbg=Black cterm=bold
-hi ansiColor_LightWhite_Red_ ctermfg=LightWhite ctermbg=Red 
-hi ansiColor_LightWhite_Red_bold ctermfg=LightWhite ctermbg=Red cterm=bold
-hi ansiColor_LightWhite_Green_ ctermfg=LightWhite ctermbg=Green 
-hi ansiColor_LightWhite_Green_bold ctermfg=LightWhite ctermbg=Green cterm=bold
-hi ansiColor_LightWhite_Yellow_ ctermfg=LightWhite ctermbg=Yellow 
-hi ansiColor_LightWhite_Yellow_bold ctermfg=LightWhite ctermbg=Yellow cterm=bold
-hi ansiColor_LightWhite_Blue_ ctermfg=LightWhite ctermbg=Blue 
-hi ansiColor_LightWhite_Blue_bold ctermfg=LightWhite ctermbg=Blue cterm=bold
-hi ansiColor_LightWhite_Magenta_ ctermfg=LightWhite ctermbg=Magenta 
-hi ansiColor_LightWhite_Magenta_bold ctermfg=LightWhite ctermbg=Magenta cterm=bold
-hi ansiColor_LightWhite_Cyan_ ctermfg=LightWhite ctermbg=Cyan 
-hi ansiColor_LightWhite_Cyan_bold ctermfg=LightWhite ctermbg=Cyan cterm=bold
-hi ansiColor_LightWhite_White_ ctermfg=LightWhite ctermbg=White 
-hi ansiColor_LightWhite_White_bold ctermfg=LightWhite ctermbg=White cterm=bold
-hi ansiColor_LightWhite_LightBlack_ ctermfg=LightWhite ctermbg=LightBlack 
-hi ansiColor_LightWhite_LightBlack_bold ctermfg=LightWhite ctermbg=LightBlack cterm=bold
-hi ansiColor_LightWhite_LightRed_ ctermfg=LightWhite ctermbg=LightRed 
-hi ansiColor_LightWhite_LightRed_bold ctermfg=LightWhite ctermbg=LightRed cterm=bold
-hi ansiColor_LightWhite_LightGreen_ ctermfg=LightWhite ctermbg=LightGreen 
-hi ansiColor_LightWhite_LightGreen_bold ctermfg=LightWhite ctermbg=LightGreen cterm=bold
-hi ansiColor_LightWhite_LightYellow_ ctermfg=LightWhite ctermbg=LightYellow 
-hi ansiColor_LightWhite_LightYellow_bold ctermfg=LightWhite ctermbg=LightYellow cterm=bold
-hi ansiColor_LightWhite_LightBlue_ ctermfg=LightWhite ctermbg=LightBlue 
-hi ansiColor_LightWhite_LightBlue_bold ctermfg=LightWhite ctermbg=LightBlue cterm=bold
-hi ansiColor_LightWhite_LightMagenta_ ctermfg=LightWhite ctermbg=LightMagenta 
-hi ansiColor_LightWhite_LightMagenta_bold ctermfg=LightWhite ctermbg=LightMagenta cterm=bold
-hi ansiColor_LightWhite_LightCyan_ ctermfg=LightWhite ctermbg=LightCyan 
-hi ansiColor_LightWhite_LightCyan_bold ctermfg=LightWhite ctermbg=LightCyan cterm=bold
-hi ansiColor_LightWhite_LightWhite_ ctermfg=LightWhite ctermbg=LightWhite 
-hi ansiColor_LightWhite_LightWhite_bold ctermfg=LightWhite ctermbg=LightWhite cterm=bold
