@@ -44,6 +44,7 @@ class AnsiColor
   }
 
   def self.highlight!
+    # TODO: encoding
     text = Vim.evaluate('getbufline("%", 1, "$")').join("\n").force_encoding(Encoding::UTF_8)
     text, pos = self.new(text).highlight!
     Vim.command 'enew'
@@ -56,9 +57,6 @@ class AnsiColor
         Vim.evaluate "matchaddpos(#{JSON.generate(group)}, #{JSON.generate(p8)})"
       end
     end
-  rescue
-    p $!.backtrace
-    raise
   end
 
   def initialize(text)
