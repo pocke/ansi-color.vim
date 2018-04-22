@@ -107,7 +107,7 @@ class AnsiColor
   end
 
   def group_name
-    "ansiColor_#{@attr[:fg]}_#{@attr[:bg]}_#{'bold' if @attr[:bold]}"
+    "ansiColor_#{@attr[:fg]}_#{@attr[:bg]}_#{'bold' if @attr[:bold]}_#{'underline' if @attr[:underline]}"
   end
 
   def update_attr(nums)

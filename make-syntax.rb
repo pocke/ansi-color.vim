@@ -38,12 +38,15 @@ COLORS_BG = {
   #LightWhite: 107,
 }
 
-def hi(fg: nil, bg: nil, bold: false)
-  return "hi link ansiColor___ Default" if !fg && !bg && !bold
-  "hi ansiColor_#{fg}_#{bg}_#{'bold' if bold} #{"ctermfg=#{fg}" if fg} #{"ctermbg=#{bg}" if bg} #{'cterm=bold' if bold}"
+def hi(fg: nil, bg: nil, bold: false, underline: false)
+  return "hi link ansiColor____ Default" if !fg && !bg && !bold && !underline
+  cterm = []
+  cterm << 'underline' if underline
+  cterm << 'bold' if bold
+  "hi ansiColor_#{fg}_#{bg}_#{'bold' if bold}_#{'underline' if underline} #{"ctermfg=#{fg}" if fg} #{"ctermbg=#{bg}" if bg} #{"cterm=#{cterm.join(",")}" unless cterm.empty?}"
 end
 
 puts hi(bold: true)
-[*COLORS_FG.keys, nil].product([*COLORS_BG.keys, nil], [true, false]).each do |fg, bg, bold|
-  puts hi(fg: fg, bg: bg, bold: bold).strip
+[*COLORS_FG.keys, nil].product([*COLORS_BG.keys, nil], [true, false], [true, false]).each do |fg, bg, bold, underline|
+  puts hi(fg: fg, bg: bg, bold: bold, underline: underline).strip
 end
