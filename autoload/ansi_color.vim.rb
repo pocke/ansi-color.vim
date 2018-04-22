@@ -2,6 +2,7 @@ require 'strscan'
 require 'json'
 
 class AnsiColor
+  # color number -> Vim color name
   COLORS_FG = {
     30=>:Black,
     31=>:Red,

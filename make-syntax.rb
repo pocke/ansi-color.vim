@@ -39,16 +39,11 @@ COLORS_BG = {
 }
 
 def hi(fg: nil, bg: nil, bold: false)
+  return "hi link ansiColor___ Default" if !fg && !bg && !bold
   "hi ansiColor_#{fg}_#{bg}_#{'bold' if bold} #{"ctermfg=#{fg}" if fg} #{"ctermbg=#{bg}" if bg} #{'cterm=bold' if bold}"
 end
 
 puts hi(bold: true)
-COLORS_FG.keys.each do |fg_color|
-  puts hi(fg: fg_color)
-  puts hi(fg: fg_color, bold: true)
-  COLORS_BG.keys.each do |bg_color|
-    puts hi(fg: fg_color, bg: bg_color)
-    puts hi(fg: fg_color, bg: bg_color, bold: true)
-  end
+[*COLORS_FG.keys, nil].product([*COLORS_BG.keys, nil], [true, false]).each do |fg, bg, bold|
+  puts hi(fg: fg, bg: bg, bold: bold).strip
 end
-
